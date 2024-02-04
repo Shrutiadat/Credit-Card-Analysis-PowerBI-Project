@@ -1,6 +1,9 @@
 Title: Credit Card Analysis Project
+
 Description:
+
 I spearheaded a comprehensive credit card analysis project, showcasing my expertise in data analysis, financial modeling, and strategic decision-making. This initiative involved the in-depth examination and interpretation of credit card transaction data to derive actionable insights and optimize business performance.
+
 Key Achievements:
 1.	Data Collection and Preprocessing: Implemented robust data collection strategies to gather extensive credit card transaction data. Conducted thorough preprocessing to clean and organize the dataset, ensuring accuracy and reliability in subsequent analyses.
 2.	Exploratory Data Analysis (EDA): Utilized advanced statistical methods and visualization techniques to perform EDA, uncovering patterns, trends, and anomalies within the credit card transaction data. 
