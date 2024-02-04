@@ -13,6 +13,7 @@ Key Achievements:
 6.	Performance Metrics and KPIs:  Regularly report findings to stakeholders, providing actionable insights for continuous improvement.
 7.	Regulatory Compliance: Ensured compliance with industry regulations and standards related to credit card transactions. 
 8.	Documentation and Reporting: Produced comprehensive documentation outlining the methodologies, findings, and recommendations.
+   
 This credit card analysis project not only demonstrated my proficiency in data analytics and financial modeling but also showcased my ability to drive informed business decisions through actionable insights. It reflects my dedication to optimizing processes, mitigating risks, and contributing to the overall success of the organization
 
 If you want see video related this project the visit my Linkedin - 
